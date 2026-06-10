@@ -1,0 +1,6 @@
+{
+  "name": "Reddit Pain Point Analyzer",
+  "description": "Analyze Reddit posts to discover product-market fit, common target customer pain points, ideal customer profiles, and product copy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
